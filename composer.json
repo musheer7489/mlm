@@ -1,0 +1,6 @@
+{
+    "require": {
+        "razorpay/razorpay": "*",
+        "mpdf/mpdf": "^6.1"
+    }
+}
